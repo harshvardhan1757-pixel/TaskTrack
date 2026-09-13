@@ -11,13 +11,13 @@ Managing everything manually can make it difficult to identify:
 - How much academic work is currently pending
 - How much of the assigned work has been completed
 
-DeadlineX is designed to provide a simple command-line solution for organizing academic assignments and helping students understand their current workload.
+TaskTrack is designed to provide a simple command-line solution for organizing academic assignments and helping students understand their current workload.
 
 ---
 
 ## 2. Scope
 
-The scope of DeadlineX is to provide a Java-based academic task management system that allows students to create, manage, search, and analyze their assignments.
+The scope of TaskTrack is to provide a Java-based academic task management system that allows students to create, manage, search, and analyze their assignments.
 
 The system focuses on:
 
@@ -41,7 +41,7 @@ The project is designed as a command-line application and does not require an ex
 
 **College and university students**
 
-DeadlineX is mainly intended for students who have to manage multiple academic assignments and deadlines across different subjects.
+TaskTrack is mainly intended for students who have to manage multiple academic assignments and deadlines across different subjects.
 
 ### Suitable Use Cases
 
@@ -108,7 +108,7 @@ The system can be used by students to:
 
 ## 5. Project Objective
 
-The main objective of DeadlineX is to provide students with a simple and organized way to manage academic assignments while also giving them an overview of their workload.
+The main objective of TaskTrack is to provide students with a simple and organized way to manage academic assignments while also giving them an overview of their workload.
 
 The project demonstrates the use of Java programming concepts such as:
 
