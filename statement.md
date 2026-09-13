@@ -1,18 +1,18 @@
-# Problem Stateme*t
+# Problem Statement
 
-Students often struggle to mana*e multiple assignments, deadlines,*priorities, and completion statuse*. Missing deadlines can negatively*impact academic performance.
+Students often struggle to manage multiple assignments, deadlines,priorities, and completion statuse. Missing deadlines can negatively impact academic performance.
 
-# Sc*pe
+# Scope
 
-TaskTrack provides a console-b*sed solution for organizing assign*ents, tracking deadlines, analyzin* workload, and generating reports.*
+TaskTrack provides a console-based solution for organizing assignments, tracking deadlines, analyzing workload, and generating reports.
 # Target Users
 
-- School Students*- College Students
-- University St*dents
+- School Students- College Students
+- University Students
 
 # High-Level Features
 
-- As*ignment Management
-- Search & Filt*ring
+- Assignment Management
+- Search & Filtering
 - Deadline Tracking
-- Workloa*
+- Workload
