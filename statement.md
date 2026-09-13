@@ -126,6 +126,6 @@ The project demonstrates the use of Java programming concepts such as:
 
 ## 6. Expected Outcome
 
-After using DeadlineX, a student should be able to maintain a structured list of academic assignments, quickly identify important deadlines, track their progress, and understand their current workload through the generated analysis and report.
+After using TaskTrack, a student should be able to maintain a structured list of academic assignments, quickly identify important deadlines, track their progress, and understand their current workload through the generated analysis and report.
 
 The application aims to make academic task management simpler, more organized, and easier to monitor through a single command-line system.
