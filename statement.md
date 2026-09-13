@@ -1,6 +1,6 @@
 # Problem Statement
 
-Students often struggle to manage multiple assignments, deadlines,priorities, and completion statuse. Missing deadlines can negatively impact academic performance.
+Students often struggle to manage multiple assignments, deadlines,priorities, and completion status. Missing deadlines can negatively impact academic performance.
 
 # Scope
 
