@@ -67,63 +67,63 @@ javac *.java
 java Main
 ```
 
-## Functional M*dules
+## Functional Modules
 
 ### Assignment Management
--*Add Assignment
+-Add Assignment
 - View Assignment
--*Update Assignment
+Update Assignment
 - Delete Assignm*nt
 - Mark Completed
 
-### Search & *iltering
+### Search & filtering
 - Search by Title
-- Searc* by Subject
+- Search by Subject
 - Filter by Priority
--*Filter by Status
+- Filter by Status
 
-### Deadline Tra*king
+### Deadline Tracking
 - Upcoming Assignments
-- Due *oon Assignments
-- Overdue Assignme*ts
+- Due soon Assignments
+- Overdue Assignments
 - Sort by Deadline
 
-### Workloa* Analysis
+### Workload Analysis
 - Total Assignments
-- Pe*ding Assignments
-- Completed Assig*ments
+- Pending Assignments
+- Completed Assignments
 - Completion Percentage
-- Wo*kload Level
+- Workload Level
 
-### Report Generation*- Academic Summary
-- Completion St*tistics
+### Report Generation- Academic Summary
+- Completion Statistics
 - Priority Distribution
 
-#*# File Storage
+### File Storage
 - Save Assignments
-* Load Assignments
+- Load Assignments
 
 ## Testing
 
-The*project has been tested for:
+The project has been tested for:
 
-- As*ignment Creation
-- Assignment Upda*es
+- Assignment Creation
+- Assignment Updates
 - Assignment Deletion
-- Search *perations
+- Search operations
 - Deadline Tracking
-- Wo*kload Analysis
-- Report Generation*- Data Persistence
+- Workload Analysis
+- Report Generation- Data Persistence
 
-## Future Enha*cements
+## Future Enhancements
 
-- GUI using Java Swing/Ja*aFX
+- GUI using Java Swing/JavaFX
 - Database Integration
-- User *uthentication
-- Email Notification*
+- User Authentication
+- Email Notification
 - Calendar Integration
 
-## Author*
+## Author
 Harsh Vardhan Rai
 25BAI10401
 B.Tech CSE (AI * ML)
